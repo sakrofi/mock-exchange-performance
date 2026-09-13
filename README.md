@@ -1,6 +1,6 @@
 # Mock Exchange Performance
 
-A Java 25 JMH performance study comparing four order-book architectures through isolated primitive-operation benchmarks.
+A Java 25 JMH project comparing four order-book architectures through isolated primitive-operation benchmarks.
 
 
 ---
