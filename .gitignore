@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Compiled class files
+*.class
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.hprof
+*.pid
+
+# Java packaging
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# Test and coverage artifacts
+*.exec
+jacoco.exec
+coverage-reports/
+
+# Misc
+*.swp
+*~
+
+
